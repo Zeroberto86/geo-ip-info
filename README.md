@@ -6,8 +6,8 @@
 cd /tmp
 git clone https://github.com/Zeroberto86/geo-ip-info.git
 cd geo-ip-info
-cp geo-ip-info.sh /usr/local/bin/geo-ip-info 
-chmod +x /usr/local/bin/geo-ip-info
+sudo cp geo-ip-info.sh /usr/local/bin/geo-ip-info 
+sudo chmod +x /usr/local/bin/geo-ip-info
 ```
 
 #### How to use:
